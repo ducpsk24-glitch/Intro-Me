@@ -1,0 +1,3 @@
+echo "introduction" > .gitignore
+echo "*.exe" >> .gitignore
+echo "*.o" >> .gitignore
