@@ -4,12 +4,12 @@ Run the one-line command matching your operating system. The installer downloads
 
 ### Linux / macos
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/install.sh](https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/install.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/install.sh | bash
 ```
 
 ### Windows
 ```powershell
-irm [https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/install.ps1](https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/install.ps1) | iex
+irm https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/install.ps1 | iex
 ```
 
 ### instruction
