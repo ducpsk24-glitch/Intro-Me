@@ -13,5 +13,5 @@ irm [https://raw.githubusercontent.com/ducpsk24-glitch/Intro-Me/main/install/ins
 ```
 
 ### instruction
-Write `introduction` or `introduction --help` to watch usage...
+Write `intro` or `intro --help` to watch usage...
 
